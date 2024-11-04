@@ -1,0 +1,103 @@
+Which country is the largest by land area?|Russia
+Which country has the largest population in the world?|China
+Which country is known for its Eiffel Tower?|France
+Which country is famous for its ancient pyramids?|Egypt
+Which country is home to the Amazon rainforest?|Brazil
+Which country is an island nation in East Asia known for sushi and samurai?|Japan
+Which country is known as the Land Down Under?|Australia
+Which country is famous for its high-tech cities and traditional temples?|South Korea
+Which country is known for its tulips and windmills?|Netherlands
+Which country is home to the Himalayas and Mount Everest?|Nepal
+Which country has a maple leaf on its flag?|Canada
+Which country is famous for the Great Wall?|China
+Which country is known for its kangaroos and koalas?|Australia
+Which country is home to the Amazon River?|Brazil
+Which country is famous for its fjords?|Norway
+Which country has a capital city called Rome?|Italy
+Which country is known for its chocolates and waffles?|Belgium
+Which country is the birthplace of the Renaissance?|Italy
+Which country is the United Kingdom's neighboring island to the west?|Ireland
+Which country is known for flamenco dancing and paella?|Spain
+Which country has a desert called the Kalahari?|Botswana
+Which country is home to the city of Casablanca?|Morocco
+Which country is located at the tip of southern Africa?|South Africa
+Which country has the famous Angkor Wat temple complex?|Cambodia
+Which country is known for producing high-quality olive oil and feta cheese?|Greece
+Which country is known for its iconic red double-decker buses and Big Ben?|United Kingdom
+Which country has the tallest building in the world, the Burj Khalifa?|United Arab Emirates
+Which country is the setting of the movie *Lion*?|India
+Which country has a flag with a red circle on a white background?|Japan
+Which country is known for its geysers and volcanoes, especially in the Golden Circle?|Iceland
+Which country is home to the historic site of Machu Picchu?|Peru
+Which country is famous for its maple syrup production?|Canada
+Which country has famous wine regions like Bordeaux and Champagne?|France
+Which country is the largest in the Middle East by land area?|Saudi Arabia
+Which country is known for its castles and kilts?|Scotland
+Which country has the longest coastline in the world?|Canada
+Which country is known for tango dancing and the Pampas region?|Argentina
+Which country has the historical site of Petra?|Jordan
+Which country is famous for Mount Kilimanjaro?|Tanzania
+Which country is an archipelago in Southeast Asia with over 17,000 islands?|Indonesia
+Which country is known for its pyramids and the Sphinx?|Egypt
+Which country is famous for its production of cigars?|Cuba
+Which country has the Taj Mahal?|India
+Which country is known for its samba dance and Carnival festival?|Brazil
+Which country is the only one with a non-rectangular flag?|Nepal
+Which country is home to the Acropolis and the Parthenon?|Greece
+Which country is known for its green landscapes and folklore of leprechauns?|Ireland
+Which country has more volcanoes than any other?|Indonesia
+Which country is known for its fjords and being part of Scandinavia?|Norway
+Which country has the longest river in Europe, the Volga?|Russia
+Which country has the smallest land area in the world?|Vatican City
+Which country has the world-famous Oktoberfest?|Germany
+Which country is the most densely populated in the world?|Monaco
+Which country is home to the Serengeti and Mount Kilimanjaro?|Tanzania
+Which country has a red-and-white checkered flag and is located in the Balkans?|Croatia
+Which country is known for its beaches, coffee, and the city of Medellín?|Colombia
+Which country is home to the Galápagos Islands?|Ecuador
+Which country is known for the Outback and the Great Barrier Reef?|Australia
+Which country is home to the Dead Sea and the ancient city of Petra?|Jordan
+Which country has the Leaning Tower of Pisa?|Italy
+Which country is famous for its Viking history and Nordic design?|Denmark
+Which country has Lake Baikal, the deepest lake in the world?|Russia
+Which country has the city of Zurich and is known for its neutrality?|Switzerland
+Which country is the largest in South America?|Brazil
+Which country has a flag with three vertical stripes: black, red, and yellow?|Germany
+Which country is famous for Big Ben and Buckingham Palace?|United Kingdom
+Which country is known for its coffee and the city of Addis Ababa?|Ethiopia
+Which country is famous for bullfighting and the Running of the Bulls?|Spain
+Which country has cities such as Auckland and Wellington?|New Zealand
+Which country is famous for its unique Maori culture and haka dance?|New Zealand
+Which country is known for its Blue Mosque and Hagia Sophia?|Turkey
+Which country is home to the Andes Mountains and the Atacama Desert?|Chile
+Which country has a coastline along both the Atlantic and Indian Oceans?|South Africa
+Which country has the iconic statue Christ the Redeemer?|Brazil
+Which country has the oldest running marathon, the Boston Marathon?|United States
+Which country is the birthplace of democracy and the Olympic Games?|Greece
+Which country is known for its ancient castles and the Loch Ness Monster?|Scotland
+Which country has a cuisine featuring sushi, tempura, and ramen?|Japan
+Which country is famous for its ancient Inca civilization?|Peru
+Which country has the city of Prague and is famous for its castles?|Czech Republic
+Which country has the Danube River flowing through its capital, Vienna?|Austria
+Which country is known for the Alps, chocolates, and Swiss Army knives?|Switzerland
+Which country is known for its tequila and mariachi music?|Mexico
+Which country has the largest Muslim population in the world?|Indonesia
+Which country is home to Mount Fuji?|Japan
+Which country has a region called Transylvania, known for its Dracula legend?|Romania
+Which country has the Great Barrier Reef off its coast?|Australia
+Which country is known for its fjords and Northern Lights?|Norway
+Which country is known for the Panama Canal?|Panama
+Which country has famous wine regions like Napa Valley?|United States
+Which country is home to the Guinness Brewery?|Ireland
+Which country is known for its kiwi fruit, sheep farming, and rugby team?|New Zealand
+Which country has cities such as Bangkok and Chiang Mai?|Thailand
+Which country is home to famous tulip fields and windmills?|Netherlands
+Which country has cities like Warsaw and Kraków and is known for its medieval architecture?|Poland
+Which country is known for its "Out of Africa" landscapes and safaris?|Kenya
+Which country is famous for the Grand Canyon?|United States
+Which country is known for the Kremlin and Red Square?|Russia
+Which country has a region called Bavaria and is known for its beer?|Germany
+Which country is home to the city of Cancun and ancient Mayan ruins?|Mexico
+Which country has the largest number of official languages in Africa?|South Africa
+Which country is home to the Sahara Desert?|Algeria
+Which country has a flag with a maple leaf on it?|Canada
